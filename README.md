@@ -5,7 +5,7 @@ CHOICEMATE is an intelligent product recommendation assistant that helps users c
 
 ---
 
-## 🚀 Features & Limitations
+## Features & Limitations
 
 ### Features
 * **Product Discovery:** Select category, define price range, and get matched items.
@@ -21,7 +21,7 @@ CHOICEMATE is an intelligent product recommendation assistant that helps users c
 
 ---
 
-## ⚙️ Tech Stack & APIs Used
+## Tech Stack & APIs Used
 
 * Programming: Python
 * UI: Streamlit
@@ -33,7 +33,7 @@ CHOICEMATE is an intelligent product recommendation assistant that helps users c
 
 ---
 
-## 📋 Setup & Run Instructions
+## Setup & Run Instructions
 
 1.  **Clone the repository:**
     ```bash
@@ -67,7 +67,7 @@ CHOICEMATE is an intelligent product recommendation assistant that helps users c
 
 ---
 
-## 📈 Potential Improvements
+## Potential Improvements
 
 * Add image previews for all products.
 * Upgrade recommendation logic using embeddings/similarity search.
